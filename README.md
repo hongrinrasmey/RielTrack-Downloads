@@ -4,7 +4,7 @@ RielTrack is an offline-first money tracker for USD and Cambodian riel.
 
 ## Download
 
-[Download the latest signed APK](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.1.apk)
+[Download the latest signed APK](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.3.apk)
 
 Requires Android 8.0 (API 26) or newer. Download the APK on your device and open it. If Android asks, allow installs from the browser or file manager used to open the file. Android may display an install warning because this APK is distributed directly, outside Google Play.
 

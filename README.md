@@ -36,12 +36,18 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 ## Install
 
-1. On your Android phone, tap the download link above.
-2. Open the downloaded `RielTrack-1.0.5.apk`.
-3. If Android asks, allow your browser or file manager to install apps.
-4. Open RielTrack. No sign-up needed.
+1. On your Android phone, tap the **Download** link above. It always gets the newest version.
+2. Your browser may warn that *"This type of file may harm your phone."* Android shows this for every app downloaded outside Google Play. Tap **Download**.
+3. When the download finishes, tap **Open file**.
+4. If Android asks which app to open it with, choose **Package installer**, not a third-party installer.
+5. If Android asks, allow your browser to install unknown apps, then go back.
+6. Tap **Install**, then **Open**. No sign-up needed.
 
-RielTrack is installed directly, not through Google Play, so Android may show a warning before installing. Requires Android 8.0 (API 26) or newer.
+Requires Android 8.0 (API 26) or newer.
+
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.5-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+
+**"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
 **Updating:** install the new APK over the old one. Your data stays, because every version is signed with the same key. Make a backup in Settings before changing phones or uninstalling: uninstalling deletes the app's data.
 

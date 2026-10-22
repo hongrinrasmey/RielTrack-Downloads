@@ -10,4 +10,4 @@ Requires Android 8.0 (API 26) or newer. Download the APK on your device and open
 
 The release includes `SHA256SUMS.txt` so you can verify the downloaded APK. RielTrack stores transactions and planning data on the device; the app has no sign-in or cloud service. Use the in-app JSON backup to move or preserve your data.
 
-For features, install notes and source build instructions, see the [project README](https://github.com/hongrinrasmey/RielTrack).
+See the release notes for the features included in each version.

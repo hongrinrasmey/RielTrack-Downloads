@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.0.4 (APK, 2.6 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.4.apk)
+### [⬇ Download RielTrack 1.0.5 (APK, 2.6 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.5.apk)
 
 ## Why RielTrack
 
@@ -37,7 +37,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 ## Install
 
 1. On your Android phone, tap the download link above.
-2. Open the downloaded `RielTrack-1.0.4.apk`.
+2. Open the downloaded `RielTrack-1.0.5.apk`.
 3. If Android asks, allow your browser or file manager to install apps.
 4. Open RielTrack. No sign-up needed.
 
@@ -47,11 +47,9 @@ RielTrack is installed directly, not through Google Play, so Android may show a 
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.0.4
+## What's new in 1.0.5
 
-- Editing a transfer keeps its recorded amounts unless you change the amount, currency, or accounts.
-- Editing a recurring item no longer moves it back to a date that was already recorded.
-- More complete Khmer translations, including planning messages, charts, budget warnings, and Settings.
+- New app logo: the riel sign (៛) with a rising trend arrow, on the home screen, reminder notifications, and the app lock screen.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

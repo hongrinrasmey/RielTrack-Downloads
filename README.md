@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.0.6 (APK, 2.6 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.6.apk)
+### [⬇ Download RielTrack 1.0.7 (APK, 2.6 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.7.apk)
 
 ## Why RielTrack
 
@@ -45,7 +45,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 Requires Android 8.0 (API 26) or newer.
 
-**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.6-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.7-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
 
 **"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
@@ -53,13 +53,14 @@ Requires Android 8.0 (API 26) or newer.
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.0.6
+## What's new in 1.0.7
 
-- Sharper app logo: heavier strokes, bigger arrow, centered mark.
-- App lock now stays locked if Android closes the app in the background.
-- Skipping a recurring item can no longer create duplicate entries.
-- Record, Pay and Skip say "Already done" when nothing changed.
-- Smoother screens: totals and charts are computed off the main thread.
+- New app logo: a white "R" whose leg becomes a rising mint arrow, on deep forest green.
+- Cleaner, calmer screens: simpler Home summary, grey category icons, one-colour Reports bars, neutral dark theme.
+- CSV import keeps identical rows, matches categories regardless of case, and shows the real file error.
+- CSV export opens correctly in Excel with Khmer notes.
+- Home, Budgets and Reports roll over to the new day and month at midnight.
+- A damaged backup can no longer crash the app; reminders no longer repeat for paid or deleted bills.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

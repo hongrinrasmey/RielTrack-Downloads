@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.0.7 (APK, 2.6 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.7.apk)
+### [⬇ Download RielTrack 1.0.8 (APK, 2.7 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.8.apk)
 
 ## Why RielTrack
 
@@ -45,7 +45,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 Requires Android 8.0 (API 26) or newer.
 
-**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.7-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.8-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
 
 **"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
@@ -53,14 +53,15 @@ Requires Android 8.0 (API 26) or newer.
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.0.7
+## What's new in 1.0.8
 
-- New app logo: a white "R" whose leg becomes a rising mint arrow, on deep forest green.
-- Cleaner, calmer screens: simpler Home summary, grey category icons, one-colour Reports bars, neutral dark theme.
-- CSV import keeps identical rows, matches categories regardless of case, and shows the real file error.
-- CSV export opens correctly in Excel with Khmer notes.
-- Home, Budgets and Reports roll over to the new day and month at midnight.
-- A damaged backup can no longer crash the app; reminders no longer repeat for paid or deleted bills.
+- Account balances no longer change when you change the exchange rate.
+- New transactions start with the account you used last, so money isn't left out of every account by mistake.
+- Typing "1,000" in a dollar amount saves $1,000.00.
+- Category totals and budgets add up exactly to "Total spent".
+- History shows what an account in another currency actually moved, e.g. "Cash (−$10.00)".
+- Account names must be different; late bills and recurring items are dated on their due day.
+- Backups made with 1.0.8 can't be opened by 1.0.7 or older.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

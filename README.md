@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.0.9 (APK, 2.8 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.0.9.apk)
+### [⬇ Download RielTrack 1.1 (APK, 2.9 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.1.apk)
 
 ## Why RielTrack
 
@@ -32,7 +32,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 | **CSV import and export** | Bring in transactions from a spreadsheet, review invalid rows, and skip duplicates. Export any time. |
 | **Backup and restore** | Save everything to one JSON file and restore it on the same or a new phone. |
 | **App lock** | Optionally protect the app with fingerprint or face unlock, or your screen lock on Android 11 and newer. |
-| **Themes** | Light, dark, or system theme, with support for larger text. |
+| **Themes** | Light, dark, or system theme, optional wallpaper colors on Android 12+, and support for larger text. |
 
 ## Install
 
@@ -45,7 +45,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 Requires Android 8.0 (API 26) or newer.
 
-**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.0.9-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.1-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
 
 **"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
@@ -53,12 +53,13 @@ Requires Android 8.0 (API 26) or newer.
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.0.9
+## What's new in 1.1
 
-- Your settings move to a faster, safer storage automatically the first time 1.0.9 opens.
-- The Budgets screen subtitle is now in Khmer when the app language is Khmer.
-- Under the hood: cleaner app structure and more automated tests.
-- Backups from 1.0.8 and 1.0.9 open in either version.
+- A fresher, more modern look. Home opens with a green summary card for this month's money in and out.
+- Each category has its own colored icon, so transactions are easier to tell apart.
+- A new font for titles and amounts. Khmer text still uses your phone's Khmer font.
+- On Android 12 and newer, you can match the app's colors to your wallpaper (Settings > Theme).
+- Backups from 1.0.8, 1.0.9 and 1.1 open in any of these versions.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

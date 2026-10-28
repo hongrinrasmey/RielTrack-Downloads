@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.1 (APK, 2.9 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.1.apk)
+### [⬇ Download RielTrack 1.2 (APK, 3.0 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.2.apk)
 
 ## Why RielTrack
 
@@ -25,7 +25,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 | **Home dashboard** | This month's income, spending, and net cash flow; budget progress; recent transactions; account balances; upcoming reminders. |
 | **Transactions** | Income, expenses, and transfers between accounts, with categories, dates, notes, search, and filters. |
 | **Accounts** | Cash, bank, and wallet balances, including transfers between USD and KHR accounts. |
-| **Budgets** | Monthly overall and per-category budgets with progress at a glance. |
+| **Budgets** | Monthly overall and per-category budgets with progress at a glance, a daily pace, and alerts when you near or pass a limit. |
 | **Reports** | Spending breakdowns, income and expense charts, trends, and month-to-month category comparisons. |
 | **Bills and recurring items** | Weekly, monthly, or yearly schedules. Confirm each one or record it automatically, with reminder notifications. |
 | **Savings goals** | Set a target and track your progress. |
@@ -45,7 +45,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 Requires Android 8.0 (API 26) or newer.
 
-**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.1-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.2-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
 
 **"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
@@ -53,13 +53,13 @@ Requires Android 8.0 (API 26) or newer.
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.1
+## What's new in 1.2
 
-- A fresher, more modern look. Home opens with a green summary card for this month's money in and out.
-- Each category has its own colored icon, so transactions are easier to tell apart.
-- A new font for titles and amounts. Khmer text still uses your phone's Khmer font.
-- On Android 12 and newer, you can match the app's colors to your wallpaper (Settings > Theme).
-- Backups from 1.0.8, 1.0.9 and 1.1 open in any of these versions.
+- Khmer mode uses a clearer Khmer font with roomier lines, and dates everywhere follow the app language.
+- History: a Date filter, month sections with a net total, and Delete can be undone.
+- Budgets: look back at past months, see how much you can spend per day, and get a notification when a budget nears or passes its limit.
+- Reports and Home: summary cards, clearer month comparisons, and approximate amounts in the other currency.
+- Backups from 1.0.8 to 1.2 open in any of these versions.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

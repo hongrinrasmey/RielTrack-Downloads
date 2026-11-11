@@ -9,7 +9,7 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
-### [⬇ Download RielTrack 1.4 (APK, 3.0 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.4.apk)
+### [⬇ Download RielTrack 1.6 (APK, 3.0 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.6.apk)
 
 ## Why RielTrack
 
@@ -45,7 +45,7 @@ RielTrack keeps your accounts, spending, budgets, bills, and savings goals in on
 
 Requires Android 8.0 (API 26) or newer.
 
-**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.4-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
+**Downloaded it more than once?** Your phone may name later copies `RielTrack-1.6-1.apk`, `-2.apk`, and so on. They are the same file. Open the newest one or delete the extras.
 
 **"App not installed"?** Your phone has a copy of RielTrack signed with a different key, for example a developer build. Back up in **Settings**, uninstall RielTrack, install this APK, then restore your backup.
 
@@ -53,11 +53,13 @@ Requires Android 8.0 (API 26) or newer.
 
 **Verify your download (optional):** each release includes a `SHA256SUMS-<version>.txt` file. Its checksum should match your downloaded APK.
 
-## What's new in 1.4
+## What's new in 1.6
 
-- Home: the USD/KHR switch now works when you pick an account, such as Cash or Bank. Its money in and out show in the currency you chose.
-- History: dates only in the headers, and each transaction shows one amount, in the currency you entered it in.
-- Backups from 1.0.8 to 1.4 open in any of these versions.
+- Plan (accounts, recurring items, goals and bills) is now a bottom tab. Settings opens from the gear icon on every tab.
+- Home compares this month's spending with the same days last month.
+- Faster entry: the amount is ready to type, with Today and Yesterday date chips. Deleting a transaction shows Undo.
+- Budgets and Reports have a USD/KHR switch and an Add transaction button.
+- Backups from 1.0.8 to 1.6 open in any of these versions.
 
 See all [release notes](https://github.com/hongrinrasmey/RielTrack-Downloads/releases).
 

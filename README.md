@@ -9,6 +9,8 @@
 
 RielTrack keeps your accounts, spending, budgets, bills, and savings goals in one place, in both USD and KHR. It works without internet, has no sign-in or ads, and keeps your data on your phone.
 
+<p align="center"><img src="demo.gif" width="300" alt="RielTrack demo: adding a 12,000 riel expense and the updated month totals"></p>
+
 ### [⬇ Download RielTrack 1.6 (APK, 3.0 MB)](https://github.com/hongrinrasmey/RielTrack-Downloads/releases/latest/download/RielTrack-1.6.apk)
 
 ## Why RielTrack
